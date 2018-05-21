@@ -2,3 +2,4 @@ build
 node_modules
 .05_Store
 god.html
+package-lock.json
